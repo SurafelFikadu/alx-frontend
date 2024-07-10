@@ -1,3 +1,4 @@
+body {
     -webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
     --blue: #007bff;
@@ -45,3 +46,4 @@
     border-color: #f8f9fa;
     padding: 1rem 1.75rem;
     font-size: 1.25rem;
+}
